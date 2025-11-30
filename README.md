@@ -30,16 +30,11 @@ This project is an AI-powered air gesture-based PC control system that allows us
 
 Ensure you have Python installed (Python 3.7+ recommended).
 
-### **1. Clone the Repository**
-```sh
-git clone https://github.com/yourusername/air-gesture-control.git
-cd air-gesture-control
-```
-### **2. Install Dependencies**
+### **1. Install Dependencies**
 ```sh
 pip install -r requirements.txt
 ```
-### **3. Run the Application**
+### **2. Run the Application**
 ```sh
 python main.py
 ```
